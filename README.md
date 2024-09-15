@@ -1,1 +1,1 @@
-This is a Typing Speed Tester which helps you check your typing speed
+This is a Typing Speed Tester which helps you track your typing speed
